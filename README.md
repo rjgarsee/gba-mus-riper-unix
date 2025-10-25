@@ -1,8 +1,8 @@
 =======================================
 GBA Mus Riper by Bregalad
 Release 2.4.1; 25th October 2025
-      Fixed *nix compilation
 =======================================
+      Fixed *nix compilation
 
 GBA Mus Riper is a suite of programs to rip music from Game Boy Advance (GBA) games using the "Sappy" sound engine, a really common engine among commercial GBA games.
 Music rippers from GBA games already exists, but this one is more complete and versatile, and less buggy than the existing ones (as for the date of writing this).
